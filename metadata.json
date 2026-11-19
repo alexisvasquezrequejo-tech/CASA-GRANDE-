@@ -1,0 +1,6 @@
+{
+  "name": "CONISER Casa Grande — Sistema de Captación de Leads",
+  "description": "Sistema de captación de leads, simulador de cuotas, CRM de seguimiento, embudo KPI y estrategia de marketing para Las Gaviotas de Reque — Casa Grande Inmobiliaria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

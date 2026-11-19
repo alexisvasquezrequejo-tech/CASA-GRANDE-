@@ -1,0 +1,60 @@
+{
+  "projectInfo": {
+    "causeLabel": "Causa priorizada del proyecto de mejora",
+    "causeTitle": "Baja estrategia de marketing definida",
+    "description": "Sistema para atraer, registrar y dar seguimiento a los interesados en los lotes de Las Gaviotas de Reque, y medir cuántos se convierten en clientes."
+  },
+  "leads": [],
+  "tools": [
+    {
+      "id": "tool-1",
+      "label": "Herramienta 1",
+      "title": "Segmentación de clientes",
+      "description": "Definir a quién se le vende para no gastar en público que no compra.",
+      "items": [
+        "Familias jóvenes de Chiclayo y Reque que buscan su primera vivienda.",
+        "Inversionistas que compran para revender o alquilar.",
+        "Personas que quieren casa de playa cerca de la ciudad."
+      ]
+    },
+    {
+      "id": "tool-2",
+      "label": "Herramienta 2",
+      "title": "Plan de marketing digital",
+      "description": "Calendario semanal de contenidos y anuncios que llevan al formulario de este sistema.",
+      "items": [
+        "Lun: video recorrido del lote (TikTok / Reels).",
+        "Mié: testimonio de cliente o avance de obras.",
+        "Vie: anuncio en Meta Ads con enlace al formulario.",
+        "Sáb: visita guiada gratuita al proyecto."
+      ]
+    },
+    {
+      "id": "tool-3",
+      "label": "Herramienta 3",
+      "title": "Embudo de ventas (CRM)",
+      "description": "Seguimiento de cada lead hasta la compra; mide la tasa de conversión.",
+      "items": [
+        "Nuevo → Contactado (antes de 24 h).",
+        "Contactado → Visita al lote.",
+        "Visita → Separó → Compró."
+      ]
+    }
+  ],
+  "photos": [
+    {
+      "id": "portada",
+      "src": "/src/assets/images/portada_gaviotas_reque_real_1795050095094.jpg",
+      "alt": "Portada de ingreso naranja con el letrero Las Gaviotas de Reque",
+      "captionTitle": "Portada de ingreso",
+      "captionDetail": "Entrada principal del proyecto"
+    },
+    {
+      "id": "lotes",
+      "src": "/src/assets/images/lotes_delimitados_reque_real_1795050094108.jpg",
+      "alt": "Terreno con lotes delimitados, calles afirmadas y postes de luz",
+      "captionTitle": "Lotes delimitados",
+      "captionDetail": "Calles trazadas y postes de luz"
+    }
+  ]
+}
